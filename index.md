@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/portfolio-hero.png" alt="3D MATLAB visualization of projectile motion and velocity vectors" width="700">
+</p>
+
 # About me (Tom)
 
 Veteran, pilot, and mathematics student focused on applied modeling, statistical analysis, technical communication, and systems engineering.
