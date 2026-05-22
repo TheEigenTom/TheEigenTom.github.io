@@ -16,7 +16,7 @@ The portfolio emphasizes:
 - MATLAB-based visualization and numerical analysis
 - Technical writing for mathematical and computational work
 
-[View the full technical modeling portfolio](https://github.com/TheEigenTom/technical-modeling-portfolio)
+[View my full technical modeling portfolio](https://github.com/TheEigenTom/technical-modeling-portfolio)
 
 ## Selected Projects
 
